@@ -1,4 +1,4 @@
 Hello this is Spark and AWS Bathc
 Python is dynamically typed language 
 high level language 
-
+will push all the python codes to git 
