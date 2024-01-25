@@ -1,3 +1,4 @@
 learning sesion on GITHUB
 Git is version control tool
+git is distributed version control system 
 learninglinux
