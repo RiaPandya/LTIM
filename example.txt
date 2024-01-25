@@ -1,2 +1,3 @@
-learning sesion
+learning sesion on GITHUB
+Git is version control tool
 learninglinux
