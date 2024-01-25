@@ -4,4 +4,5 @@ hadoop is a framework
 using nosql database
 database is mongo
 database is mongo
+git is repository to store our data 
 
