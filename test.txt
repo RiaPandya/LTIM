@@ -1,0 +1,7 @@
+hi learning session 
+bigdata and hadoop
+hadoop is a framework 
+using nosql database
+database is mongo
+database is mongo
+
